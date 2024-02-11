@@ -1,0 +1,23 @@
+
+h2{font-family: "Harir";
+  font-size: 29px;
+  font-weight: bold;
+  color: #471717;}
+  h3{font-family: "Harir";
+    font-size: 25px;
+    color: #833e3e;}
+  p{
+  font-family: "Harir";
+      font-size: 20px;
+  }
+ 
+html{
+  height: 100%;
+  color:#833e3e;
+  line-height: 1.8;
+  text-align: right;
+}
+body{
+  font-weight: bold;
+  background-color: #e5c199;
+}
